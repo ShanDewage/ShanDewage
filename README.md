@@ -1,17 +1,21 @@
 ## Hi there 👋
 
-# Shan Dewage 👋✨
-**UI/UX Engineer & Front-end Developer** 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /> 
+</p>
 
----
+<h1 align="center" style="color:#fff;">Shan Dewage</h1>
+<h3 align="center" style="color:#aaa;">UI/UX Engineer & Front-end Developer</h3>
 
-## 💻 Tech Stack
-<code>AdobeXD</code> ⚡ <code>CSS</code> 🎨 <code>Figma</code> 🖌️ <code>Firebase</code> 🔥 <code>HTML</code> 📄 <code>JS</code> 💻 <code>MUI</code> 🖱️ <code>Node.js</code> 🌐 <code>React</code> ⚛️ <code>Tailwind</code> 🌈 <code>TypeScript</code> 📝 <code>Vue</code> 🖖 <code>PHP</code> 🐘 <code>Bootstrap</code> 📐 <code>AdobePS</code> 🎨
+<p align="center">
+[LinkedIn](https://linkedin.com/) | [Behance](https://behance.net/) | [Email](mailto:your.email@example.com) | [Portfolio](https://your-portfolio.com)
+</p>
 
----
-
-## 📫 Contact
-🔗 [LinkedIn](https://linkedin.com/) | 🎨 [Behance](https://behance.net/) | ✉️ [Email](mailto:your.email@example.com) | 🌐 [Portfolio](https://your-portfolio.com)
 
 
 
