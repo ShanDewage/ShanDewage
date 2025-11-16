@@ -24,7 +24,7 @@ I’m a UI/UX engineer who designs web apps, websites, and mobile apps, and deve
 ---
 
 
-🌐 See more at my site: <a href="https://shandewage.github.io/balrog/" target="_blank"> <strong>Shan Dewage</strong></a>
+🌐 See more at my site: **[Shan Dewage](https://shandewage.github.io/balrog/)**
 
 
 
